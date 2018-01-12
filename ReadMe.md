@@ -1,5 +1,7 @@
 This Utility is ment to easily merge PDFs
 
+It uses easy-pdf-merge(https://www.npmjs.com/package/easy-pdf-merge)
+
 Pre req:
 
 Node : v8.9.1
